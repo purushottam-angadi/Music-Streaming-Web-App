@@ -1,6 +1,6 @@
 # 🎵 Music Streaming Web App
 
-A responsive and interactive music player built with **HTML**, **CSS**, and **JavaScript**. This project showcases playlist management, audio controls, and a sleek user interface with smooth transitions.
+A visually appealing and fully responsive music player crafted with **HTML**, **CSS**, and **JavaScript**. The app features a personally curated playlist of selected tracks, interactive playback controls, and a sleek UI that adapts seamlessly across devices. Powered by DOM manipulation and event-driven programming, it delivers a smooth and engaging listening experience.
 
 ## 🚀 Features
 
